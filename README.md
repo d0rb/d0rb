@@ -1,4 +1,5 @@
 
+
 <a href="https://komarev.com/ghpvc/?username=d0rb">
   <img align="right" src="https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -20,36 +21,25 @@
  
 <p>
  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![]( https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![]( https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`)
-
-![](  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![](   	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-![](  https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-![](  https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+👾 Greetings, fellow explorer of bytes and shadows! I'm Dor a CS grad wielding Java, Swift, Python & C/C++ as my digital arsenal.
+ From elegant Swift to raw C/C++, I code at the edge of possibility.
 
-![](  https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+🔐 Beyond the screen, I humbly embrace the realm of cybersecurity - seeking to understand encryption, exploring ethical hacking, and weaving networks together
+
+💻 While the world sleeps, I delve into tech's mysteries, conjuring projects, and coding innovation.
+ Every line of code is a brushstroke on the canvas of progress. 
+ Venture into my GitHub to witness this journey.
+ 
+🌐 Im also open for job opportunities.
 
 
-![](  https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=whit)
+## <3 
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![]( https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![]( https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`) ![](  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](   	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![](  https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+![](  https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](  https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=whit)
 <br/>
 
 
