@@ -19,7 +19,7 @@ While the world spins, I delve into tech's mysteries, conjuring projects, and co
 
 I'm also open to job opportunities.
 
-P.S: I will never post fully ready exploits or any weaponized tool whatsoever, feel free to contact me on Twitter. Keep in mind that I'm intentionally missing stuff from my PoCs and won't share the missing parts anyway. I'm not about causing any harm, I've done enough ❤️.
+P.S: I will never post fully ready exploits or any weaponized tool whatsoever, feel free to contact me on Twitter. Keep in mind that I'm intentionally missing stuff from my PoCs and won't share the missing parts anyway. I'm not about causing any harm, I've done enough </3.
 
 ## Skill Set
 
