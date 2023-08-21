@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Profile Visitors](https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=d0rb)
@@ -22,7 +23,9 @@ P.S: I will never post fully ready exploits or any weaponized tool whatsoever, f
 
 ## Skill Set
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/Python-0095D5?&style=for-the-badge&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
+![Android](https://img.shields.io/badge/Loves-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 	![Kali Linux](https://img.shields.io/badge/using-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
 <div align="center">
 
