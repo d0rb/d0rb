@@ -35,7 +35,7 @@
 🌐 Im also open for job opportunities.
 
 P.S :
-I will never post full exploits or either any weaponized tool what so ever , feel free to contact me @ twiter but mind that I'm intentionally missing stuff from my PoCs and wont share the missing parts anyway , Im not about causing any harm , I have done enough <\3 .
+I will never post fully ready exploits or either any weaponized tool what so ever , feel free to contact me @ twiter but mind that I'm intentionally missing stuff from my PoCs and wont share the missing parts anyway , Im not about causing any harm , I have done enough <\3 .
 ## Skill Set
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![]( https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![]( https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`) ![](  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](   	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![](  https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
