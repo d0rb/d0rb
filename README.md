@@ -7,7 +7,7 @@
 
 **We demand the safe return of all citizens who have been taken hostage by the terrorist group Hamas. We will not rest until every hostage is released and returns home safely. You can help bring them back home.
 https://stories.bringthemhomenow.net/**
-</div>
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Itsd0r)
 
@@ -40,4 +40,5 @@ P.S: I will never post fully ready exploits or any weaponized tool whatsoever, f
 [![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=d0rb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/d0rb)
 [![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=d0rb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/d0rb)
 
+</div>
 </div>
