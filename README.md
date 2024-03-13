@@ -3,12 +3,13 @@
 
 [![Profile Visitors](https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=d0rb)
 
-# Hey There! I am **Dor** 👋
+ #  🇮🇱  **#BringThemHome #NeverAgainIsNow**   🇮🇱
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Itsd0r)
-
+**We demand the safe return of all citizens who have been taken hostage by the terrorist group Hamas. We will not rest until every hostage is released and returns home safely. You can help bring them back home.
+https://stories.bringthemhomenow.net/**
 </div>
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Itsd0r)
+# Hey There! I am **Dor** 👋
 ## About Me
 
 Greetings, fellow explorer of bytes and shadows! I'm Dor, a C.S grad wielding Java, Swift, Python & C/C++ as my digital arsenal. From elegant Swift to raw C/C++, I code at the edge of possibility.
