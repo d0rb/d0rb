@@ -8,7 +8,10 @@
 **We demand the safe return of all citizens who have been taken hostage by the terrorist group Hamas. We will not rest until every hostage is released and returns home safely. You can help bring them back home.
 https://stories.bringthemhomenow.net/**
 </div>
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Itsd0r)
+
+
 # Hey There! I am **Dor** 👋
 ## About Me
 
