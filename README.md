@@ -15,15 +15,18 @@ https://stories.bringthemhomenow.net/**
 # Hey There! I am **Dor** 👋
 ## About Me
 
-Greetings, fellow explorer of bytes and shadows! I'm Dor, a C.S grad wielding Java, Swift, Python & C/C++ as my digital arsenal. From elegant Swift to raw C/C++, I code at the edge of possibility.
+Hello there, fellow enthusiast in the realms of technology and cybersecurity! 
+I'm Dor, a Computer Science graduate proficient in Java, Swift, Python, and C/C++. I enjoy exploring the possibilities offered by different programming languages, from the elegance of Swift to the raw power of C/C++.
 
-Beyond the screen, I humbly embrace the realm of cybersecurity - seeking to understand encryption, exploring ethical hacking, and weaving networks together.
+Outside of coding, I have a keen interest in cybersecurity, particularly in areas like encryption, ethical hacking, and networking and I am continuously learning and expanding my knowledge in these fields.
 
-While the world spins, I delve into tech's mysteries, conjuring projects, and coding innovation. Every line of code is a brushstroke on the canvas of progress. Venture into my GitHub to witness this journey.
+In my journey through the ever-evolving world of technology, I like to work on various projects and contribute to coding innovation, every line of code I write feels like adding a stroke to the canvas of progress.
 
-I'm also open to job opportunities.
 
-P.S: I will never post fully ready exploits or any weaponized tool whatsoever, feel free to contact me on Twitter. Keep in mind that I'm intentionally missing stuff from my PoCs and won't share the missing parts anyway. I'm not about causing any harm </3.
+Please note that while I am passionate about technology, I prioritize responsible practices. I never share fully ready exploits or weaponized tools and always ensure that my work does not cause harm.
+
+I am currently open to job opportunities and would be happy to connect with you on Twitter.
+Feel free to reach out to me on Twitter to discuss any collaborations or opportunities further.
 
 ## Skill Set
 
