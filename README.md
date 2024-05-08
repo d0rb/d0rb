@@ -16,17 +16,27 @@ https://stories.bringthemhomenow.net/**
 ## About Me
 
 Hello there, fellow enthusiast in the realms of technology and cybersecurity! 
+
 I'm Dor, a Computer Science graduate proficient in Java, Swift, Python, and C/C++. I enjoy exploring the possibilities offered by different programming languages, from the elegance of Swift to the raw power of C/C++.
 
+
 Outside of coding, I have a keen interest in cybersecurity, particularly in areas like encryption, ethical hacking, and networking and I am continuously learning and expanding my knowledge in these fields.
+
 
 In my journey through the ever-evolving world of technology, I like to work on various projects and contribute to coding innovation, every line of code I write feels like adding a stroke to the canvas of progress.
 
 
 Please note that while I am passionate about technology, I prioritize responsible practices. I never share fully ready exploits or weaponized tools and always ensure that my work does not cause harm.
 
-I am currently open to job opportunities and would be happy to connect with you on Twitter.
-Feel free to reach out to me on Twitter to discuss any collaborations or opportunities further.
+
+I am currently open to job opportunities and would be happy to connect with me on Twitter.
+
+
+Also Feel free to reach out to me on Twitter to discuss any collaborations or opportunities further.
+
+
+email : jbnops0wu@mozmail.com
+
 
 ## Skill Set
 
