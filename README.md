@@ -1,7 +1,6 @@
 
 <div align="center">
 
-![PacketPirate](https://raw.githubusercontent.com/d0rb/PacketPirate/main/gfx.png)
 
  #  🇮🇱  **#BringThemHome #NeverAgainIsNow**   🇮🇱
 
