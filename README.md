@@ -1,7 +1,8 @@
 <div align="center">
 
 
-[![Profile Visitors](https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=d0rb
+![Profile Visitors](https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat)
+
 
 
 # Hey There! I am **Dor** 👋 🇮🇱
