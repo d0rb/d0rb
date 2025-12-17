@@ -1,15 +1,10 @@
-
 <div align="center">
 
 
- #  🇮🇱  **#BringThemHome #NeverAgainIsNow**   🇮🇱
-
-**We demand the safe return of all citizens who have been taken hostage by the terrorist group Hamas. We will not rest until every hostage is released and returns home safely. You can help bring them back home.
-https://stories.bringthemhomenow.net/**
+[![Profile Visitors](https://komarev.com/ghpvc/?username=d0rb&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=d0rb
 
 
-
-# Hey There! I am **Dor** 👋
+# Hey There! I am **Dor** 👋 🇮🇱
 ## About Me
 
 Hello there, fellow enthusiast in the realms of technology and cybersecurity! 
